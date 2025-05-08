@@ -5,6 +5,12 @@ productLink: "/queues/"
 productArea: Developer platform
 productAreaLink: /workers/platform/changelog/platform/
 entries:
+  - publish_date: "2025-05-09"
+    title: HTTP Push for Queues
+    description: |-
+      You can now write messages to your Queues from any client that can speak HTTP, without having to use a Worker. This means all your Go, Rust, Python or Bash applications can now benefit from a globally distributed queueing system and no egress charges.
+
+      Reading from a Queue via an HTTP client is also possible. Refer to the [documentation on pull consumers](/queues/configuration/pull-consumers/) to learn how to setup a pull consumer, acknowledge / retry messages, and setup multiple consumers.
   - publish_date: "2025-04-17"
     title: Improved limits for pull consumers
     description: |-

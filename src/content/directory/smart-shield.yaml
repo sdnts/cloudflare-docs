@@ -1,11 +1,11 @@
+id: FJpQxY
 name: Smart Shield
 
 entry:
   title: Smart Shield
   url: /smart-shield/
   group: Application performance
-  additional_groups:
-    [Application security, Network security]
+  additional_groups: [Application security, Network security]
 
 meta:
   title: Cloudflare Smart Shield docs

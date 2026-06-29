@@ -1,8 +1,9 @@
+id: nJ9WEV
 name: SDK
 
 entry:
   title: SDK
-  url: /sdk/
+  url: /fundamentals/api/reference/sdks/
   group: Core platform
   additional_groups: [Developer platform]
   show: false
